@@ -1,4 +1,5 @@
 # node-js-getting-started
+Author Name: Dinesh M
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
